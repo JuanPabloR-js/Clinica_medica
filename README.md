@@ -77,23 +77,8 @@ Se a data da consulta for anterior ao dia atual,
 
 Isso evita que o sistema mantenha consultas antigas com status incorreto e garante integridade e automação sem depender do usuário.
 
-5. Conteúdo da Entrega
 
-A entrega é composta por:
-
-Arquivo	Descrição
-clinica_medica.sql	Script completo contendo: criação das tabelas, inserts, CRUD, função da trigger e trigger.
-README.md	Documento explicando o projeto (este arquivo).
-6. Como Executar o Script
-
-No terminal ou no psql:
-
-psql -U postgres -f clinica_medica.sql
-
-
-Ou linha por linha dentro do psql.
-
-7. Conclusão
+5. Conclusão
 
 Este trabalho realiza a implementação completa do banco da clínica médica, com:
 
