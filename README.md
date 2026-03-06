@@ -1,6 +1,6 @@
 📌 Clínica Médica – Banco de Dados (PostgreSQL)
 
-Este projeto implementa o banco de dados clinica_medica, seguindo o modelo lógico desenvolvido no Trabalho 1. O objetivo do Trabalho 2 é transformar esse modelo em tabelas reais no PostgreSQL, criar operações CRUD completas e implementar uma trigger funcional que automatize uma regra do sistema.
+Este projeto implementa o banco de dados clinica_medica, seguindo o modelo lógico desenvolvido na Faculdade . O objetivo do Trabalho  é transformar esse modelo em tabelas reais no PostgreSQL, criar operações CRUD completas e implementar uma trigger funcional que automatize uma regra do sistema.
 
 1. Objetivo do Projeto
 
